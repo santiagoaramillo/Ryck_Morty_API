@@ -1,0 +1,29 @@
+
+table {
+    width: 100%;
+    background-image: url(/Ryck\ y\ morty.png);
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    background-size: cover;
+}
+
+th, td {
+    border: 5px solid rgb(6, 6, 90);
+    text-align: left;
+    padding: 8px;
+}
+
+tr {
+    border-bottom: 5px solid rgb(6, 6, 90);
+}
+
+.ch-images {
+    width: 100px;
+    height: auto;
+}
+
+.ch-images img {
+    width: 50%;
+    height: auto;
+}
